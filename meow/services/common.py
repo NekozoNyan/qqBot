@@ -1,7 +1,7 @@
-import aiohttp
-import asyncio
+from httpx import AsyncClient, HTTPError
 
 from .log import logger
+
 
 class ServiceException(Exception):
     'Base of exceptions thrown by the service side'
@@ -12,13 +12,13 @@ class ServiceException(Exception):
     def message(self) -> str:
         return self.args[0]
 
+
 async def fetch_text(uri: str) -> str:
-    async with aiohttp.ClientSession(headers={ 'User-Agent': 'neko' }) as session:
+    async with AsyncClient(headers={ 'User-Agent': 'box-s-ville.meowbot' }) as client:
         try:
-            async with session.get(uri) as response:
-                response.raise_for_status()
-                return await response.text()
-        except aiohttp.ClientResponseError as e:
+            res = await client.get(uri)
+            res.raise_for_status()
+        except HTTPError as e:
             logger.exception(e)
             raise ServiceException('API 服务目前不可用')
-
+        return res.text

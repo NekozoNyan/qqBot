@@ -765,3 +765,39 @@
 [2024-04-22 17:17:27] [WARNING]: no usable sign server 
 [2024-04-22 17:17:27] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
 [2024-04-22 17:17:32] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:20:47] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:20:47] [WARNING]: no usable sign server 
+[2024-04-22 17:20:47] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:20:53] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:21:26] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:21:26] [WARNING]: no usable sign server 
+[2024-04-22 17:21:26] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:21:31] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:25:33] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:25:33] [WARNING]: no usable sign server 
+[2024-04-22 17:25:33] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:25:38] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:28:05] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:28:05] [WARNING]: no usable sign server 
+[2024-04-22 17:28:05] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:28:11] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:28:19] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:28:19] [WARNING]: no usable sign server 
+[2024-04-22 17:28:19] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:28:25] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:31:50] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:31:50] [WARNING]: no usable sign server 
+[2024-04-22 17:31:50] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:32:00] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:32:00] [WARNING]: no usable sign server 
+[2024-04-22 17:32:00] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:32:05] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:33:39] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:33:39] [WARNING]: no usable sign server 
+[2024-04-22 17:33:39] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:33:44] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:36:15] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:36:15] [WARNING]: no usable sign server 
+[2024-04-22 17:36:15] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:36:21] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:36:29] [ERROR]: Protocol -> test srv server latency error: failed to connect to server during quality test: dial tcp 106.39.206.82:8080: i/o timeout 

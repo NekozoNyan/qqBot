@@ -3,14 +3,14 @@ from services.db_context import db
 
 
 class groupUsr(db.Model):
-    __name__ = "group_users"
+    __tablename__ = "groupUsr"
 
     id = db.Column(db.Integer(), primary_key=True)
     user_qq = db.Column(db.BigInteger(), nullable=False)
     belonging_group = db.Column(db.BigInteger(), nullable=False)
 
     checkin_count = db.Column(db.Integer(), nullable=False)
-    checkin_time_last = db.Column(db.DataTime(timezone=True), nullable=False)
+    checkin_time_last = db.Column(db.DateTime(timezone=True), nullable=False)
     # 积分
     impression = db.Column(db.Numeric(scale=3, asdecimal=False), nullable=False)
 
