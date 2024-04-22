@@ -1,0 +1,4 @@
+nonebot==1.9.1
+hypercorn==0.16.0
+jieba==0.42.1
+gino==1.0.1

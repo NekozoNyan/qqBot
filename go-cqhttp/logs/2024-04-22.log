@@ -2,3 +2,766 @@
 [2024-04-22 13:54:53] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
 [2024-04-22 13:59:45] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1011 (internal server error) 
 [2024-04-22 13:59:45] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-04-22 14:34:43] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:7778/ 
+[2024-04-22 15:14:43] [WARNING]: 刷新 token 出现错误: code=-1, msg: QSign not initialized, unable to request_token, please submit the initialization package first.. server: http://127.0.0.1:7778/ 
+[2024-04-22 15:38:59] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1011 (internal server error) 
+[2024-04-22 15:39:00] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 
+[2024-04-22 15:39:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:39:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:40:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 15:40:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:04:29] [WARNING]: 自动注册实例已关闭，请配置 sign-server 端自动注册实例以保持正常签名 
+[2024-04-22 16:04:39] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 16:04:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:04:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:04:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:04:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:04:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:04:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:04:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:05:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:06:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:07:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:08:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:09:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:10:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:11:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:12:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:13:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:14:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:15:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:16:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:17:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:18:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:19:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:20:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:21:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:22:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:23:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:24:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:25:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:26:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:27:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:28:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:29:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:30:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:31:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:14] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:23] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:32:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:33:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:33:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:33:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:33:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8080/ws 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2024-04-22 16:52:20] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 16:52:20] [WARNING]: no usable sign server 
+[2024-04-22 16:52:20] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 16:52:27] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 16:52:29] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:52:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:52:35] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:52:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:52:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:52:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:52:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:52:50] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:52:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:52:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:52:59] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:53:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:53:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:53:08] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:17] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 16:57:17] [WARNING]: no usable sign server 
+[2024-04-22 16:57:17] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 16:57:23] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 16:57:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:57:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:59:18] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 16:59:18] [WARNING]: no usable sign server 
+[2024-04-22 16:59:18] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 16:59:24] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 16:59:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:59:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:59:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:59:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:59:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:59:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:59:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:59:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:59:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:59:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 16:59:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:00:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:39] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:45] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:48] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:54] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:01:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:03] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:09] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:18] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:24] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:02:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:05:30] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:05:30] [WARNING]: no usable sign server 
+[2024-04-22 17:05:30] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:05:36] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:05:38] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:05:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:05:44] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:14] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:06:14] [WARNING]: no usable sign server 
+[2024-04-22 17:06:14] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:06:20] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:06:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:06:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:07:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:17] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:11:17] [WARNING]: no usable sign server 
+[2024-04-22 17:11:17] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:11:23] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 17:11:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:11:58] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:04] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:13] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:19] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:31] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:34] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:40] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:43] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:49] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:53] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:12:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://meow:8080/ws 时出现错误: dial tcp: lookup meow on 127.0.0.11:53: server misbehaving 
+[2024-04-22 17:17:27] [WARNING]: 签名服务器 http://127.0.0.1:7778/ 可能不可用，请求出现错误：Get "http://127.0.0.1:7778/": dial tcp 127.0.0.1:7778: connect: connection refused 
+[2024-04-22 17:17:27] [WARNING]: no usable sign server 
+[2024-04-22 17:17:27] [WARNING]: 警告: 未配置签名服务器或签名服务器不可用, 这可能会导致登录 45 错误码或发送消息被风控 
+[2024-04-22 17:17:32] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
