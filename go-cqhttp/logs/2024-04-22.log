@@ -1,0 +1,4 @@
+[2024-04-22 13:54:43] [WARNING]: 自动注册实例已关闭，请配置 sign-server 端自动注册实例以保持正常签名 
+[2024-04-22 13:54:53] [WARNING]: Protocol -> device lock is disabled. HTTP API may fail. 
+[2024-04-22 13:59:45] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1011 (internal server error) 
+[2024-04-22 13:59:45] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: websocket: close sent 

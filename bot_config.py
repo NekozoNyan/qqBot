@@ -8,11 +8,11 @@ SUPERUSERS = {2451056239}
 # 表示命令的前缀，例如假如命令叫 `天气`，那么只有用户在输入 `/天气` 时候才会触发命令。
 COMMAND_START = { '' }
 # 昵称
-NICKNAME = {'neko', 'Neko'}
+NICKNAME = {'meow', 'Meow', '猫猫'}
 # 表示一条命令的超时（没有用户输入）时间。
 SESSION_EXPIRE_TIMEOUT = timedelta(minutes=2)
 # 关闭调试
 DEBUG = False
 # 服务器和端口
 HOST = '127.0.0.1'
-PORT = 8765
+PORT = 8080
